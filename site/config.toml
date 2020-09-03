@@ -1,0 +1,79 @@
+theme = "bento"
+languageCode = "en-us"
+baseurl = "/"
+title = "Derek Fritz"
+
+author = "Derek Fritz"
+copyright = "MIT"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+# Better code higlighting
+# via https://discourse.gohugo.io/t/pygmentscodefences-how-to-choose-themes/3842/3
+pygmentsCodefences = true
+pygmentsStyle = "vs"
+
+# Integrations
+googleAnalytics = "UA-XXXXXX-YY"
+disqusShortname = "bento-hugo-theme"
+
+# Hightlight theme
+[markup.highlight]
+  style = "github"
+
+# Allow HTML rendering inside markdown
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  # Show intro in the home page (with headline and description)
+  intro = true
+  headline = "My name is Derek, hello!"
+  description = "This blog is both a medium to educate myself, as well as an outlet for my thoughts. I hope you enjoy your stay."
+
+  # Copyright note in the footer
+  copyright = "Last Updated 09-2020 by Derek Fritz"
+
+  # Image in the homepage. You can setup a different image for social media
+  cover = "/images/pdx.jpg"
+  ogImage = "/images/pdx.jpg"
+
+  # Social media usernames
+  github = "defritz"
+  linkedin = "https://www.linkedin.com/in/derek-fritz/"
+  email = "derekfritz10@gmail.com"
+
+  # Avatar (shown in the homepage)
+  avatar = "/images/headshot.png"
+  # Bio is shown in the end of posts
+  authorBio = "I'm a Software Engineer who's finding himself in the Silicon Forest."
+
+# If you want to use fathom (https://usefathom.com) for analytics, add this section
+[params.fathomAnalytics]
+  siteID = "XXXXX"
+  # Default value is cdn.usefathom.com, overwrite this if you are self-hosting
+  serverURL = "analytics.example.com"
+
+# If you want to use umami (https://umami.is/) for analytics, add this section
+[params.umami]
+  siteID = "XXXXX"
+  trackerScript = "//umami.example.com/umami.js"
+
+# Items in the top menu
+[menu]
+  [[menu.main]]
+      name = "About"
+      url = "/about"
+      weight = 1
+
+  [[menu.main]]
+      name = "Archives"
+      url = "/archives"
+      weight = 1
+
+  [[menu.main]]
+      name = "Source code"
+      url = "https://github.com/defritz/personal-blog"
+      weight = 1

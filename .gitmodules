@@ -1,0 +1,3 @@
+[submodule "site/themes/bento"]
+	path = site/themes/bento
+	url = https://github.com/leonardofaria/bento.git
