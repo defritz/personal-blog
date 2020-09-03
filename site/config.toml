@@ -2,6 +2,7 @@ theme = "bento"
 languageCode = "en-us"
 baseurl = "/"
 title = "Derek Fritz"
+enableEmoji = true
 
 author = "Derek Fritz"
 copyright = "MIT"
