@@ -14,7 +14,7 @@ hideSuggestions = "true"
 Although I now call Portland home, I was born and raised in Dallas, Texas. I received my Bachelor of Science
 in Computer Science from Texas Tech University in 2019, graduating Summa Cum Laude with Honors.
 
-Currently, I work as an Associate Software Development Engineer at [FireEye](https://www.fireeye.com/), helping to defend
+Currently, I work as a Software Development Engineer at [FireEye](https://www.fireeye.com/), helping to defend
 the public against malicious cyber threats.
 
 Outside of work, I enjoy gaming, exploring the nature of the PNW, and working on cool projects like this webpage.
