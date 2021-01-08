@@ -1,5 +1,6 @@
 theme = "bento"
 languageCode = "en-us"
+# For local development, change this to "/"
 baseurl = "https://derek-fritz.netlify.app/"
 title = "Derek Fritz"
 enableEmoji = true
