@@ -43,6 +43,7 @@ disqusShortname = "bento-hugo-theme"
   ogImage = "/images/pdx.jpg"
 
   # Social media usernames
+  resume = "https://drive.google.com/file/d/1IwWELAelPJjz97yhoH4cZTJ5hdrH8TqE/view?usp=sharing"
   github = "defritz"
   linkedin = "https://www.linkedin.com/in/derek-fritz/"
   email = "derekfritz10@gmail.com"
