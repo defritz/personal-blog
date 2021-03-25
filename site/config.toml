@@ -1,6 +1,5 @@
 theme = "bento"
 languageCode = "en-us"
-# For local development, change this to "/"
 baseurl = ""
 title = "Derek Fritz"
 enableEmoji = true
