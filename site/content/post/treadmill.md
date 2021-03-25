@@ -3,7 +3,8 @@ author = "Derek Fritz"
 title = "The 2020 Treadmill"
 date = "2020-09-23"
 description = ""
-tags = ["2020","reflection","covid"]
+hideComments = "true"
+tags = ["time","reflection","covid"]
 +++
 
 2020 has been a wild year, and everyone has been impacted to varying degrees. Rather than closing my eyes and hoping things get better, I'd like to take a moment to reflect on what "better" really means for me.

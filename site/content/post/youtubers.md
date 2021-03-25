@@ -3,7 +3,8 @@ author = "Derek Fritz"
 title = "Top Content Creators"
 date = "2020-09-23"
 description = ""
-tags = ["YouTube"]
+hideComments = "true"
+tags = ["creators"]
 +++
 
 Here are some of my favorite content creators who entertain and educate me from day to day.
