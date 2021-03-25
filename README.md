@@ -11,6 +11,6 @@ This webpage was built using victor-hugo, which is a templating tool for Hugo-ba
 - Asset bundling using Webpack
 
 ## Development
-Local development can be performed by changing the baseurl in config.toml to "/" and deploying by running *npm start*.
-
 New posts added to /site/content/post will be automatically picked up by the post-summary.html template.
+
+Changes can be verified by deploying locally using `npm start`.
