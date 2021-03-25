@@ -3,6 +3,7 @@ author = "Derek Fritz"
 title = "Hello World"
 date = "2020-09-03"
 description = "My first post"
+hideComments = "true"
 tags = ["web development","programming"]
 +++
 
