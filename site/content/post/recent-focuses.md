@@ -11,21 +11,18 @@ It's been a while since I've posted an update, so I thought I'd go ahead and rev
 with a variety of technologies I'm interesting in pursuing long-term. As I strive to become a better web-developer, I aim to build up my skillset of languages and development tools.
 
 <style>
-.inline-block {
+img {
+    display: inline-block;
     margin: 10px;
+    vertical-align: middle;
+    white-space: nowrap;
 }
 </style>
 
 <div id="icon-banner">
-    <div class="inline-block">
-        <img src="/images/docker.png" width="220">
-    </div>
-    <div class="inline-block">
-        <img src="/images/aws.png" width="220">
-    </div>
-    <div class="inline-block">
-        <img src="/images/react.png" width="200">
-    </div>
+    <img src="/images/docker.png" width="220">
+    <img src="/images/aws.png" width="220">
+    <img src="/images/react.png" width="200">
 </div>
 
 ### Containers ###
