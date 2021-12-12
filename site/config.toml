@@ -35,7 +35,7 @@ disqusShortname = "bento-hugo-theme"
   description = "This blog is both a medium to educate myself, as well as an outlet for my thoughts. I hope you enjoy your stay."
 
   # Copyright note in the footer
-  copyright = "Last Updated 04-2021 by Derek Fritz"
+  copyright = "Last Updated 12-2021 by Derek Fritz"
 
   # Image in the homepage. You can setup a different image for social media
   cover = "/images/pdx.jpg"

@@ -1,8 +1,8 @@
 {
-  "name": "victor-hugo",
+  "name": "personal-blog",
   "version": "1.0.0",
-  "description": "Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
-  "repository": "netlify/victor-hugo",
+  "description": "JAMstack-based personal blog site",
+  "repository": "https://github.com/defritz/personal-blog",
   "main": "index.js",
   "scripts": {
     "lint": "eslint src",
